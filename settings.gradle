@@ -1,2 +1,2 @@
-include ':app', ':toasterlibrary'
+include ':app', ':toasterlibrary', ':infinidocrlibrary'
 rootProject.name='SimpleLibrary'
